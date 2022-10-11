@@ -52,7 +52,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zuza-ai)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-### ✍️ Blog Posts:
-<!-- BLOG-POST-LIST:START -->
 
-<!-- BLOG-POST-LIST:END -->
