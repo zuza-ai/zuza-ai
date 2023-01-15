@@ -3,6 +3,7 @@
 </div>
 
 <div id="codewars" align="center">
+  <h5>Codewars Profile Badges</h5>
   <img src="https://www.codewars.com/users/zuza-ai/badges/large" width="250"/>
 </div>
 
